@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+ul,li,h1{
+    display: inline;
+}
+ul{
+    margin-left: 800px;
+}
+li{
+    color: grey;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    height:50px;
+    width: 650px;
+    
+
+}
+.searchbox{
+    padding: 50px;
+    text-align: center;
+}
+
+.nadhi{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    height: 315px;
+    width: 220px;                                   
+}
+.pic{
+    text-align: center;
+}
+.nadhi:hover{
+    background-color: black;
+    color: white;
+}
+.punnagai{
+    text-align: center;
+    margin-top: 20px;
+    padding: 30px;
+}
+.savi{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
